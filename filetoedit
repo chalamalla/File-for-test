@@ -2,6 +2,9 @@
 <html>
 <head >
 
+
+// this is a change i made to this file 
+
 <form id="contact_form" method="POST" onsubmit="return validateForm();" enctype="multipart/form-data">
   <div class="row">
     <label class="required" for="name">Your name:</label><br />
